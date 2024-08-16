@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/84717efc-2829-4e41-9349-3b1fe5504583/resourceGroups/UCCD2323-sthRg/providers/Microsoft.Web/sites/UCCD2323-CariMakan",
+    "appService.deploySubpath": "."
+}
